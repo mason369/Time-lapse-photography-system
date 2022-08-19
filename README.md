@@ -4,10 +4,10 @@
 > 总之是个比较有意思的小项目，方案不算复杂，设计也存在一些值得改进的地方，当前正在招募编码人员。
 > 
 **自动化延时摄影构想**
-![](IMG/自动化延时摄影构想.png)  
+<img src="https://school-of-automation-engineering.github.io/Time-lapse-photography-system/自动化延时摄影构想.png">
 
 **自动化延时摄影构思**
-![](IMG/自动化延时摄影构思.png)
+<img src="https://school-of-automation-engineering.github.io/Time-lapse-photography-system/自动化延时摄影构思.png">
 
 **项目贡献者:**  
 [Mason](https://github.com/mason369)
